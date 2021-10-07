@@ -232,12 +232,6 @@ news1 = get_news_content('https://news.v.daum.net/v/20190617073049838')
 print(news1)
 
 
-# In[ ]:
-
-
-# In[ ]:
-
-
 webs = ['http://www.test.co.kr',
         'https://www.test1.com',
         'http://www.test.com',
@@ -246,6 +240,3 @@ webs = ['http://www.test.co.kr',
         'htp://www.test.com',
         'http://www.google.com',
         'https://www.homepage.com.']
-
-
-# In[ ]:
